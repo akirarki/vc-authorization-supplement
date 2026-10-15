@@ -1,0 +1,17 @@
+study,group,arm,actions_planned,actions_scored,executed,denied,unauthorized_effects,false_blocks,decision_errors,compilations_scored,domain_matches,rules_min,rules_max
+1,simple_grant,V,324,324,162,162,0,0,0,,,,
+1,simple_grant,C,324,324,162,162,0,0,0,108,108,1,4
+1,negation_exception,V,324,324,162,162,0,0,0,,,,
+1,negation_exception,C,324,324,162,162,0,0,0,108,108,2,4
+1,action_specific,V,324,324,162,162,0,0,0,,,,
+1,action_specific,C,324,324,162,162,0,0,0,108,108,1,4
+1,conjunction_scope,V,324,324,162,162,0,0,0,,,,
+1,conjunction_scope,C,324,324,162,162,0,0,0,108,108,2,4
+2,S1,V,432,431,180,251,0,0,0,,,,
+2,S1,C,432,432,180,252,0,0,0,72,72,2,7
+2,S2,V,432,430,179,251,0,0,0,,,,
+2,S2,C,432,432,180,252,0,0,0,72,72,2,5
+2,S4,V,432,432,180,252,0,0,0,,,,
+2,S4,C,432,426,177,249,0,0,0,71,71,4,7
+2,anchor,V,48,48,24,24,0,0,0,,,,
+2,anchor,C,48,48,24,24,0,0,0,16,16,1,3
